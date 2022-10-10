@@ -52,8 +52,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NAMESPACE: sjkarthik
-      SERVICE_NAME: cryptograph
-      SERVICE_LOCATION: cryptograph
+      SERVICE_NAME: cryptograph1
+      SERVICE_LOCATION: cryptograph1
 
     steps:
       - uses: actions/checkout@v2
